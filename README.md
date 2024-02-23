@@ -39,3 +39,6 @@ These applied transformations and findings collectively contribute to the projec
 ## SQL Query
 [Data Exploration Query](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/SQL_Data_Cleaning_Project_NashvilleHousing.sql)
 
+### Credits
+Alex Freberg
+
