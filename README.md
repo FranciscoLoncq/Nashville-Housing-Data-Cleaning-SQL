@@ -33,11 +33,11 @@ Removed unnecessary columns (OwnerAddress, TaxDistrict, PropertyAddress) to stre
 These applied transformations and findings collectively contribute to the project's success in enhancing data quality for subsequent analysis and reporting purposes.
 
 ## Links:
-## Nashville Housing Dataset (CSV)
+### Nashville Housing Dataset (CSV)
 [Dataset: Nashville Housing Data for Data Cleaning](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv)
 
-## SQL Query
-[Data Exploration Query](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/SQL_Data_Cleaning_Project_NashvilleHousing.sql)
+### SQL Query
+[Data Cleaning Query](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/SQL_Data_Cleaning_Project_NashvilleHousing.sql)
 
 ### Credits
 Alex Freberg
