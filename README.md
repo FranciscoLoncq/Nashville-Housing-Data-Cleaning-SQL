@@ -1,6 +1,6 @@
 # Nashville Housing Data Exploration - SQL
 ## Overview:
-This project involves data exploration using SQL on a dataset containing home value data in the thriving Nashville market. The primary goal is to enhance data quality, making it more suitable for analysis and reporting.
+This project showcases data cleaning on a dataset containing home value data in the thriving Nashville market using SQL. The primary goal is to enhance data quality, making it more suitable for analysis and reporting.
 
 ## Transformations Applied:
 ### Data Cleaning and Standardization:
