@@ -34,7 +34,7 @@ These applied transformations and findings collectively contribute to the projec
 
 ## Links:
 ## Nashville Housing Dataset (CSV)
-[Dataset: Nashville Housing Data for Data Cleaning](link_to_dataset)
+[Dataset: Nashville Housing Data for Data Cleaning](https://github.com/FranciscoLoncq/Nashville-Housing-Data-Exploration-SQL/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv)
 
 ## SQL Query
 [Data Exploration Query](link_to_dataset)
