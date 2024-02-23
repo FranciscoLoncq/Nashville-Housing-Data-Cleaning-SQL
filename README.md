@@ -16,7 +16,7 @@ Altered column types to accommodate changes in data representation.
 Handled duplicate rows using a Common Table Expression (CTE) and ROW_NUMBER() to identify and keep only unique rows.
 ###  SQL Query Optimization:
 Ordered and filtered data as needed for analysis and review.
-## Main Findings:
+## Main Results:
 ### Missing Property Addresses:
 Identified and populated missing PropertyAddress values by leveraging information from other rows with the same ParcelID.
 ### Address and City Separation:
